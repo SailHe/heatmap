@@ -21,9 +21,12 @@ generate a heatmap with baidu map api.
 
 ```javascripte
 [{
-  "lng": 116.42076,  // 经度
-  "lat": 39.915251,  // 维度
-  "count": 67  // 热度值
+// 经度
+  "lng": 116.42076,
+  // 纬度
+  "lat": 39.915251,
+  // 热度值
+  "count": 67
 },{
   "lng": 113.64533,
   "lat": 37.75675,
