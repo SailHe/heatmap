@@ -52,3 +52,6 @@ generate a heatmap with baidu map api.
 ## screenshot
 ![image](https://github.com/jasonBai007/heatmap/raw/master/screenshot.jpg)
 
+# 其它参考
+* @see [百度地图2.0离线版制作](https://www.oschina.net/code/snippet_84328_53024) 
+* @see [百度离线热力图 依赖上一个](https://my.oschina.net/u/3227847/blog/828908) 
